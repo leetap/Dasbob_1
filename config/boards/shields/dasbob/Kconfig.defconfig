@@ -4,7 +4,7 @@
 if SHIELD_DASBOB_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "dasbob"
+	default "DasBoB"
 
 config ZMK_SPLIT_ROLE_CENTRAL
 	default y
